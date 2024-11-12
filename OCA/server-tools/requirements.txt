@@ -1,0 +1,8 @@
+# generated from manifests external_dependencies
+astor
+dataclasses
+mako
+odoorpc
+openupgradelib
+pygount
+sentry_sdk<=1.9.0
